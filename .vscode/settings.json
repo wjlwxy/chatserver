@@ -1,0 +1,6 @@
+{
+    "cmake.sourceDirectory": "/home/wj/code",
+    "files.associations": {
+        "iostream": "cpp"
+    }
+}
